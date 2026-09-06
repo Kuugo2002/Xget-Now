@@ -2,7 +2,7 @@
 
 ***[汉语](README.md)***
 
-A cross-browser extension for Chromium and Firefox that accelerates file downloads by seamlessly forwarding them to an [Xget](https://github.com/xixu-me/Xget) instance.
+A cross-browser extension for Chromium and Firefox that accelerates file downloads by seamlessly forwarding them to an [Xget](https://github.com/Kuugo2002/Xget) instance.
 
 > [!NOTE]
 > Quick start: install the store version, enter your Xget domain such as `xget.xi-xu.me`, and leave the target platform toggles enabled.
@@ -42,7 +42,7 @@ If you prefer manual installation, or if a store listing is unavailable, you can
 
 #### Option 1: Install from GitHub Releases
 
-1. Go to the [Releases page](https://github.com/xixu-me/Xget-Now/releases/latest).
+1. Go to the [Releases page](https://github.com/Kuugo2002/Xget-Now/releases/latest).
 2. Download the package for your browser:
    - `Xget-Now_x.x.x.chromium.zip`: for Chromium-based browsers such as Chrome, Edge, and Opera.
    - `Xget-Now_x.x.x.firefox.xpi`: for Firefox.
@@ -71,7 +71,7 @@ If you prefer manual installation, or if a store listing is unavailable, you can
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/xixu-me/Xget-Now.git
+   git clone https://github.com/Kuugo2002/Xget-Now.git
    cd Xget-Now
    ```
 
@@ -129,7 +129,7 @@ After installation, you should see the Xget Now icon in the browser toolbar. Cli
 
 ### Xget Instance
 
-Use the pre-deployed instance `xget.xi-xu.me`, or deploy your own by following the [Xget deployment documentation](https://github.com/xixu-me/Xget#-deployment).
+Use the pre-deployed instance `xget.xi-xu.me`, or deploy your own by following the [Xget deployment documentation](https://github.com/Kuugo2002/Xget#-deployment).
 
 ## Privacy and Security
 
@@ -197,7 +197,7 @@ Yes. The extension is completely free and open source under GPL-3.0.
 
 ### Can I use my own Xget server?
 
-Yes. You can deploy your own Xget instance from the [Xget repository](https://github.com/xixu-me/Xget) and point the extension to your own domain.
+Yes. You can deploy your own Xget instance from the [Xget repository](https://github.com/Kuugo2002/Xget) and point the extension to your own domain.
 
 ### Why are some downloads still going through the original server?
 
@@ -237,7 +237,7 @@ If Xget Now is useful to you, consider:
   - [Chrome Web Store](https://chromewebstore.google.com/detail/ajiejgobfcifcikbahpijopolfjoodgf?hl=en)
   - [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/xget-now/)
   - [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/jigpfhbegabdenhihpplcjhpfdcgnalc)
-- Reporting bugs or suggesting features via [GitHub Issues](https://github.com/xixu-me/Xget-Now/issues).
+- Reporting bugs or suggesting features via [GitHub Issues](https://github.com/Kuugo2002/Xget-Now/issues).
 - Sharing it with others who might benefit from faster downloads.
 
 > [!NOTE]

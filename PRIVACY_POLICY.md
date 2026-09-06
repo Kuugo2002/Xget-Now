@@ -123,7 +123,7 @@ Xget Now 扩展遵循“隐私优先”的设计原则，所有处理都在您�
 ### 开源透明性
 
 - 扩展是完全开源的
-- 源代码可在 [GitHub](https://github.com/xixu-me/Xget-Now) 上获得
+- 源代码可在 [GitHub](https://github.com/Kuugo2002/Xget-Now) 上获得
 - 您可以审查、验证和审计所有代码
 
 ## 您的权利
@@ -170,7 +170,7 @@ Xget Now 扩展遵循“隐私优先”的设计原则，所有处理都在您�
 
 如果您对此隐私政策有任何问题、疑虑或建议，请：
 
-- **GitHub Issues**：在我们的 [GitHub 存储库](https://github.com/xixu-me/Xget-Now/issues) 上打开一个 issue
+- **GitHub Issues**：在我们的 [GitHub 存储库](https://github.com/Kuugo2002/Xget-Now/issues) 上打开一个 issue
 - **电子邮件**：通过我们的 GitHub 配置文件联系维护者
 
 ## 法律合规
@@ -213,6 +213,6 @@ Xget Now 扩展遵循“隐私优先”的设计原则，所有处理都在您�
 ---
 
 **最后更新**：2025 年 8 月 10 日  
-**联系方式**：[GitHub Issues](https://github.com/xixu-me/Xget-Now/issues)
+**联系方式**：[GitHub Issues](https://github.com/Kuugo2002/Xget-Now/issues)
 
 此隐私政策是我们对透明度和用户隐私承诺的一部分。我们相信您有权了解您使用的软件如何处理您的数据，以及在这种情况下，确认它不会处理您的个人数据。

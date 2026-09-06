@@ -2,7 +2,7 @@
 
 ***[English](README.en.md)***
 
-一个适用于 Chromium 和 Firefox 的跨浏览器扩展，通过将文件下载无缝转交给 [Xget](https://github.com/xixu-me/Xget) 实例来加速下载。
+一个适用于 Chromium 和 Firefox 的跨浏览器扩展，通过将文件下载无缝转交给 [Xget](https://github.com/Kuugo2002/Xget) 实例来加速下载。
 
 > [!TIP]
 > 欢迎加入“Xget 开源与 AI 交流群”，一起交流开源项目、AI 应用、工程实践、效率工具和独立开发；如果你也在做产品、写代码、折腾项目或者对开源和 AI 感兴趣，欢迎[**进群**](https://file.xi-xu.me/QR%20Codes/%E7%BE%A4%E4%BA%8C%E7%BB%B4%E7%A0%81.png)认识更多认真做事、乐于分享的朋友。
@@ -45,7 +45,7 @@ Xget Now 会在受支持的平台上识别真实下载链接，把请求重写�
 
 #### 方式 1：从 GitHub Releases 安装
 
-1. 前往 [Releases 页面](https://github.com/xixu-me/Xget-Now/releases/latest)。
+1. 前往 [Releases 页面](https://github.com/Kuugo2002/Xget-Now/releases/latest)。
 2. 下载对应浏览器的扩展文件：
    - `Xget-Now_x.x.x.chromium.zip`：适用于所有基于 Chromium 的浏览器，例如 Chrome、Edge、Opera。
    - `Xget-Now_x.x.x.firefox.xpi`：适用于 Firefox 浏览器。
@@ -74,7 +74,7 @@ Xget Now 会在受支持的平台上识别真实下载链接，把请求重写�
 1. 克隆仓库：
 
    ```bash
-   git clone https://github.com/xixu-me/Xget-Now.git
+   git clone https://github.com/Kuugo2002/Xget-Now.git
    cd Xget-Now
    ```
 
@@ -132,7 +132,7 @@ Xget Now 会在受支持的平台上识别真实下载链接，把请求重写�
 
 ### Xget 实例
 
-你可以直接使用预部署实例 `xget.xi-xu.me`，也可以参考 [Xget 部署文档](https://github.com/xixu-me/Xget#-%E9%83%A8%E7%BD%B2) 自行部署。
+你可以直接使用预部署实例 `xget.xi-xu.me`，也可以参考 [Xget 部署文档](https://github.com/Kuugo2002/Xget#-%E9%83%A8%E7%BD%B2) 自行部署。
 
 ## 隐私与安全
 
@@ -200,7 +200,7 @@ Chromium 浏览器中，打开开发者工具并查看 Console 选项卡。Firef
 
 ### 我可以使用自己的 Xget 服务器吗？
 
-当然可以。你可以使用 [Xget 存储库](https://github.com/xixu-me/Xget) 部署自己的 Xget 实例，并配置扩展使用你的域名。
+当然可以。你可以使用 [Xget 存储库](https://github.com/Kuugo2002/Xget) 部署自己的 Xget 实例，并配置扩展使用你的域名。
 
 ### 为什么有些下载仍然通过原始服务器？
 
@@ -240,7 +240,7 @@ Chromium 浏览器中，打开开发者工具并查看 Console 选项卡。Firef
   - [Chrome 应用商店](https://chromewebstore.google.com/detail/ajiejgobfcifcikbahpijopolfjoodgf?hl=zh-CN)
   - [Firefox 附加组件](https://addons.mozilla.org/zh-CN/firefox/addon/xget-now/)
   - [Edge 加载项](https://microsoftedge.microsoft.com/addons/detail/jigpfhbegabdenhihpplcjhpfdcgnalc?hl=zh-CN&gl=CN)
-- 通过 [GitHub Issues](https://github.com/xixu-me/Xget-Now/issues) 报告错误或建议功能。
+- 通过 [GitHub Issues](https://github.com/Kuugo2002/Xget-Now/issues) 报告错误或建议功能。
 - 分享给其他可能受益于更快下载的人。
 
 > [!NOTE]

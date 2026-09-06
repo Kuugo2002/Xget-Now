@@ -173,7 +173,7 @@ jobs:
           auth-api-secret: ${{ secrets.FIREFOX_AUTH_API_SECRET }}
           approval-note: |
             这是一个下载加速器扩展，支持多个平台的文件下载加速。
-            源代码位于 GitHub: https://github.com/xixu-me/Xget-Now
+            源代码位于 GitHub: https://github.com/Kuugo2002/Xget-Now
             构建说明：直接从源代码打包，无需编译或转译。
 
       - name: 创建 GitHub 发布
@@ -206,7 +206,7 @@ jobs:
 
             ## 安装方法
 
-            详细的安装说明请参考：[手动安装指南](https://github.com/xixu-me/Xget-Now?tab=readme-ov-file#%E6%89%8B%E5%8A%A8%E5%AE%89%E8%A3%85)
+            详细的安装说明请参考：[手动安装指南](https://github.com/Kuugo2002/Xget-Now?tab=readme-ov-file#%E6%89%8B%E5%8A%A8%E5%AE%89%E8%A3%85)
 
             ## 更新日志
 
